@@ -13,8 +13,6 @@
 ![Screenshot](https://api.microlink.io/?url=https://linkmeyoshi.netlify.app&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=1500&type=jpeg&overlay.browser=dark&overlay.background=linear-gradient%28225deg%2C+%23FF057C+0%25%2C+%238D0B93+50%25%2C+%23321575+100%25%29)
 
 
-![Screenshot](https://api.microlink.io?url=https://www.netflix.com/title/80057281&screenshot=true&meta=false&embed=screenshot.url)
-
 ## How to use ?🤔
 
 1. Fork🍴 & Star⭐ the Repo.
