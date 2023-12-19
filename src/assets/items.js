@@ -7,12 +7,13 @@ import github from '../assets/github.png'
 import telegram from '../assets/telegram.png'
 import twitter from '../assets/twitter.png'
 import linkedin from '../assets/linkedin.png'
+import yahreahlogo from '../assets/logo-white.jpeg'
 
 const items = [{
-    "title": "Website",
-    "subtitle": "Look at my work!",
-    "image": website,
-    "link": "https://yahshemi.github.io/CSS-My-Site/" //your personal website or portfolio link
+    "title": "Yahreah Skin",
+    "subtitle": "A personal project!",
+    "image": yahreahlogo,
+    "link": "https://yahreah.com" //your personal website or portfolio link
 },
 {
     "title": "GitHub",
