@@ -11,7 +11,7 @@ import yahreahlogo from '../assets/logo-white.jpeg'
 
 const items = [{
     "title": "Yahreah Skin",
-    "subtitle": "A personal project!",
+    "subtitle": "A personal project, built with Shopify.",
     "image": yahreahlogo,
     "link": "https://yahreah.com" //your personal website or portfolio link
 },
